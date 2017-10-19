@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="road">
+        <item>Dry</item>
+        <item>Mixed</item>
+        <item>Wet</item>
+    </string-array>
+    <string-array name="weather">
+        <item>맑음</item>
+        <item>흐림</item>
+        <item>비</item>
+        <item>눈</item>
+    </string-array>
+    <string-array name="tire">
+        <item>20C</item>
+        <item>23C</item>
+        <item>25C</item>
+        <item>28C</item>
+        <item>32C</item>
+        <item>37C</item>
+    </string-array>
+</resources>
